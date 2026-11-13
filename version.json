@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/vektormrbanan-svg/musicwars-updates/releases/download/v1.0.1/MusicWars_Setup.exe",
-  "sha256": "55d4f9fd014be77f3756ab867e7f9fef6de23d86c84c150791b89ead48e4e01b",
+  "version": "1.0.2",
+  "url": "https://github.com/vektormrbanan-svg/musicwars-updates/releases/download/v1.0.2/MusicWars_Setup.exe",
+  "sha256": "33fabc9dbe21fb98f251e91bfefa86efe7b1ef946de466c7d910229d62381bb2",
   "notes": "",
-  "sig": "0FB49583EB5B8FA16EACAEF2B3608B99037BF33440B6FAF414073C02DCFB0D74"
+  "sig": "C34D7A74CEBF30B46EEC7EFDFA6DFAB9433FA5434631E6DCF3D8506AE0906727"
 }
